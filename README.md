@@ -20,9 +20,13 @@
 ## ✨ Key Features  
 
 ✅ **Sleek & Responsive UI** – Bootstrap 5-powered design 
+
 ✅ **Dynamic Product Catalog** – Filter products by category, price & availability  
+
 ✅ **User Authentication** – Secure login, registration & profile management  
+
 ✅ **Admin Dashboard** – Manage products, orders, and users effortlessly  
+
 ✅ **AJAX-Powered Interactions** – Smooth user experience without page reloads  
 
 ---
